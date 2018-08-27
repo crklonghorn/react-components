@@ -1,0 +1,21 @@
+.sideCard {
+	background-color: #F4F9E9;
+	color: #F4F9E9;
+	height: 10rem;	
+	text-align: left;	
+	margin-top: 20px;
+	font-family: Helvetica Neue;
+}
+
+.sideCard .card-value {
+	padding: 20px 0px 0px 20px;
+	text-align: left;	
+	font-size: 1rem;
+	font-weight: lighter;
+	letter-spacing: 1px;		
+}
+
+.sideCard .card-descr {
+	font-size: 1.5rem;
+	padding: 0px 0px 10px 20px;	
+}

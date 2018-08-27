@@ -1,0 +1,22 @@
+.whiteCard {
+	margin-top: 1rem;
+	background-color: #F8FBF1;
+	color: #153243;			
+/*	margin: 10px;*/
+}
+
+.whiteCard .card-title {
+	font-size: 1.5rem;
+	text-align: left;
+	padding: 25px 20px 0px 25px; 
+}
+
+.whiteCard .card-descr {
+
+	padding: 0px 20px 0px 25px; 
+	text-align: left;	
+	font-size: 1rem;
+	font-weight: lighter;
+	letter-spacing: 1px;
+	
+}

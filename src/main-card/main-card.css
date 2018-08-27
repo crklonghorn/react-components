@@ -1,0 +1,26 @@
+.mainCard {
+	background-color: #3A405A;	
+	color: #F4F9E9;
+	margin-top: 20px;
+	word-wrap: normal;
+}
+
+.bgColor {
+	height: 150px;
+}
+
+.mainCard .card-title, h4 {
+	font-size: 1.5rem;
+	text-align: center;
+	font-weight: normal;
+	padding: 15px 0px 0px 0px;
+	margin-bottom: 0px;
+}
+
+.mainCard .card-text {	
+	padding-bottom: 15px;
+	text-align: center;	
+	font-size: 1rem;
+	font-weight: lighter;
+	letter-spacing: 1px;
+}
